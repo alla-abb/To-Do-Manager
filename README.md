@@ -14,6 +14,9 @@ The Event Manager app is a simple yet powerful tool designed to help you seamles
 - 🔍 Search and filter events for easy access.
 
 Stay organized and never miss an important event again with Event Manager! 🎯
+
+
+
 ![image](https://github.com/user-attachments/assets/b0422d15-a45e-4663-9903-4c3d9db54a52)
 ![image](https://github.com/user-attachments/assets/db4c87b1-993c-4702-b9b0-a79762c401dd)
 ![image](https://github.com/user-attachments/assets/0f4bee55-7a55-48b6-a3e5-1b70d9271bc4)
