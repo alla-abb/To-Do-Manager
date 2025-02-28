@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>menu-dots-square-svgrepo-com.svg</file>
+        <file>search-svgrepo-com.svg</file>
+        <file>filter-search-svgrepo-com.svg</file>
+        <file>add-circle-svgrepo-com.svg</file>
+        <file>next-forward-arrow-arrows-direction-navigation-right-svgrepo-com.svg</file>
+        <file>menu-svgrepo-com.svg</file>
+        <file>calendar-days-svgrepo-com.svg</file>
+        <file>lock-my-phone-svgrepo-com.svg</file>
+        <file>meet-consider-deliberate-about-debate-svgrepo-com.svg</file>
+        <file>deadline-svgrepo-com.svg</file>
+        <file>lock-person-profile-user-group-people-2-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
